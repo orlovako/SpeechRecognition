@@ -1,0 +1,12 @@
+c:\users\ksusha-plusha\source\repos\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.exe.config
+c:\users\ksusha-plusha\source\repos\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.exe
+c:\users\ksusha-plusha\source\repos\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.pdb
+c:\users\ksusha-plusha\source\repos\SpeechRecognition\SpeechRecognition\bin\Debug\Microsoft.Speech.dll
+c:\users\ksusha-plusha\source\repos\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csprojResolveAssemblyReference.cache
+c:\users\ksusha-plusha\source\repos\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.SpeechRecognitionForm.resources
+c:\users\ksusha-plusha\source\repos\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.Properties.Resources.resources
+c:\users\ksusha-plusha\source\repos\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.GenerateResource.cache
+c:\users\ksusha-plusha\source\repos\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.CoreCompileInputs.cache
+c:\users\ksusha-plusha\source\repos\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.CopyComplete
+c:\users\ksusha-plusha\source\repos\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.exe
+c:\users\ksusha-plusha\source\repos\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.pdb
